@@ -6,7 +6,7 @@ import os
 
 clients = {}
 lock = threading.Lock()
-USERS_FILE = "users.json"
+USERS_FILE = "../users.json"
 
 # --------------------------------------------------------------------
 # Load user credentials from file
