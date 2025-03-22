@@ -7,11 +7,11 @@ A simple chat room application that supports public messages (PM), direct messag
 
 ### 1. Start the Server
 Open a terminal, navigate to the folder that holds the python files and run:
-```bash
+```
 python serverSide.py <host_ip> <server_port>
 ```
 Example:
-```bash
+```
 python serverSide.py 0.0.0.0 5000
 ```
 
@@ -19,11 +19,11 @@ python serverSide.py 0.0.0.0 5000
 
 ### 2. Start the Client
 Open another terminal, navigate to the folder that holds the python files and run:
-```bash
+```
 python clientSide.py <server_ip> <server_port>
 ```
 Example:
-```bash
+```
 python clientSide.py localhost 5000
 ```
 
