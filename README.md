@@ -6,7 +6,7 @@ A simple chat room application that supports public messages (PM), direct messag
 ## How to Run
 
 ### 1. Start the Server
-Open a terminal and run:
+Open a terminal, navigate to the foler that holds the python file and run:
 ```bash
 python serverSide.py <host_ip> <server_port>
 ```
